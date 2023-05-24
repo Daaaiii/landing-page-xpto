@@ -1,7 +1,7 @@
 # Landing Page com Carrosel
 Esta foi a primeira Landing page que eu criei com base na Mapa Dev Week do [Devemdobro](https://github.com/devemdobro)
 
-[<img src="./projeto-xpto.gif" alt ="demonstração da página" >]
+<img src="./projeto-xpto.gif" alt ="demonstração da página" >
 ## Tecnologias Utilizadas
 - HTML 
 - CSS
