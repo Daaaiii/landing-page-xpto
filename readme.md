@@ -8,9 +8,10 @@ Esta foi a primeira Landing page que eu criei com base na Mapa Dev Week do [Deve
 - Javascript
 
 ## Habilidades desenvolvidas 🤓
+
 - Posicionar elementos com display Flex;
 
 - Utilizar querySelectorAll, getElementById e addEventListener no Javascript;
 
-- Desenvolver funções no Javascript
+- Desenvolver funções no Javascript: carrousel, botões, etc.
 
